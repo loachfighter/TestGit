@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34c7a705-6963-4305-a19e-ff0e9fa9811d" name="默认的" comment="" />
+    <list default="true" id="34c7a705-6963-4305-a19e-ff0e9fa9811d" name="默认的" comment="测试Git.1.2">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test.java" afterPath="$PROJECT_DIR$/src/Test.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,8 +35,8 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="216">
+              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -606,7 +609,7 @@
       <option name="presentableId" value="Default" />
       <updated>1502636158003</updated>
       <workItem from="1502636163020" duration="2066000" />
-      <workItem from="1502641973511" duration="389000" />
+      <workItem from="1502641973511" duration="856000" />
     </task>
     <task id="LOCAL-00001" summary="加入Test.java文件,以测试Git.">
       <created>1502642087746</created>
@@ -636,11 +639,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502642350476</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="测试Git.1.2">
+      <created>1502642664279</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1502642664279</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2455000" />
+    <option name="totallyTimeSpent" value="2922000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -698,7 +708,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="加入Test.java文件,以测试Git." />
     <MESSAGE value="测试Git.1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试Git.1.1" />
+    <MESSAGE value="测试Git.1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试Git.1.2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -766,8 +777,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="216">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding />
         </state>
       </provider>
